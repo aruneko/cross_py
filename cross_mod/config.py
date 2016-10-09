@@ -16,4 +16,4 @@ files = { 'binutils': 'binutils-2.26.1',\
 # GNUのミラーサイト(Jaistがデフォルト)
 gnu_site = 'http://ftp.jaist.ac.jp/pub/GNU/'
 # make時のオプション
-makeopt = '-j 9'
+makeopt = '-j9'
